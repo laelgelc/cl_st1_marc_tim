@@ -1,2 +1,3 @@
 # cl_st1_marc_tim
-CL_St1_Marc_Tim
+
+## Corpus Linguistics - Study 1 - Marc Kupietz and Tim Feldmueller
